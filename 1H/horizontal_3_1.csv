@@ -1,0 +1,7 @@
+time	mcs	nss	bw	rssi	throughput_monitor	datarate	pktlost_ack	nbpkt_monitor	retry	nbpkt_ack	pktlost_seq_initial	pktlost_seq_new	bad_fcs	distance	antenna	LoS
+8.100054	7	3	80.0	-59.388	24839800.0	975.0	0.0	848.0	3.0	1303.0	127.0	10476.0	0.0	3	horizontal	1
+8.201004	7	3	80.0	-59.3799	26257000.0	975.0	1.0	895.0	8.0	1355.0	119.0	642.0	0.0	3	horizontal	1
+8.302265	7	3	80.0	-59.4989	25600900.0	975.0	8.0	884.0	18.0	1341.0	138.0	8038.0	0.0	3	horizontal	1
+8.403116	7	3	80.0	-59.3582	26994500.0	975.0	0.0	924.0	5.0	1333.0	142.0	3710.0	0.0	3	horizontal	1
+8.503137	7	3	80.0	-59.3542	28152600.0	975.0	0.0	943.0	17.0	1376.0	125.0	3845.0	0.0	3	horizontal	1
+##	1290	4579	0.281721											3	horizontal	1
